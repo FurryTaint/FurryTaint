@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurryTaint
 - 👀 I’m interested in cloud computing, machine learning and game development.
-- 🌱 I’m currently studying in univercity and my major is computer science, but open minded for job/project offers.
+- 🌱 I’m currently studying in university and my major is computer science, but open minded for job/project offers.
 - 🌱 My specialty`s are C#, Java, hmtl, css, javascript and im also a electrician and automation mechanic.
 - 💞️ I’m looking to collaborate on companies and people who are passionate what they are building.
 - 📫 You can reach me by arttu.lappi95@gmail.com
